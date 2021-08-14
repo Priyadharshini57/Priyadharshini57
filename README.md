@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Priyadharshini57
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+TASK-1 : 
+Iris flowers classification ML (Level - Beginner)
+1.From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
-<!---
-Priyadharshini57/Priyadharshini57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2.Use R or Python or perform this task.
